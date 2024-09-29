@@ -1,4 +1,5 @@
-Welcome to the remake of FearVR! My name is Dxtor, and I have using unity for 2 and half years now. My main project I worked on was Monke Tag, and I have recently bought FearVR. I have alot of skill, 
+  Welcome to the remake of FearVR! My name is Dxtor, and I have using unity for 2 and half years now. 
+My main project I worked on was Monke Tag, and I have recently bought FearVR. I have alot of skill, 
 and I want to add a twist to the horror fan game scene. FearVR is all about your scariest phobias, and we want to manifest that into a GTAG fan game! 
 This game offers exciting levels, and simple but complex puzzles.  We offer 10 levels per chapter, and yes you heard me, CHAPTER! Since there are a BUNCH of phobias, 
 we expect to make a lot of chapters, filled with new and fun levels to explore and beat. Around the various maps, you will find lore. The more lore you find, 
